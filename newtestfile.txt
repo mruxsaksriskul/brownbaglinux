@@ -1,3 +1,7 @@
 This is my test file on origin.
 More changes
+<<<<<<< HEAD
 My local edit
+=======
+My edit on repo.
+>>>>>>> 7d324f5fdcf7123428590126171541d104b6153e
